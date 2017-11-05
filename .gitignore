@@ -1,0 +1,7 @@
+community/
+enterprise/
+professional/
+vs_community.exe 
+vs_enterprise.exe 
+vs_professional.exe 
+*.zip
